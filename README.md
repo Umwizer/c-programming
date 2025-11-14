@@ -5,9 +5,9 @@ Beginner-friendly C programming exercises, examples, and mini-projects covering 
 # C Programming Basics
 
 This repository contains beginner-friendly C programming examples and exercises.  
-It is designed to help new programmers understand the core concepts of the C language.
 
-## 📌 Topics Covered
+
+## 📌 Topics to be  Covered
 
 - Basic Syntax
 - Variables & Data Types
