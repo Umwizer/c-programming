@@ -1,3 +1,9 @@
+
+// 2.	create a Simple Invoice Generation System that uses the printf function to display formatted output.
+// The program will accept user input for the details of an invoice 
+// (such as the item name, price, quantity, and calculate the total), and display a neatly formatted invoice
+
+
 #include<stdio.h>
 int main(){
     char item[50];
